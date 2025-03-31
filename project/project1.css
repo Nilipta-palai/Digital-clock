@@ -1,0 +1,13 @@
+.jumbotron{
+    background-color: rgb(238, 244, 255);
+    margin: 90px;
+    border: 0.5px solid black;
+    box-shadow: 2px 3px 3px black;
+    padding: 30px;
+    font-size: 20px;
+     
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
